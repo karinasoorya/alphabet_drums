@@ -1,0 +1,6 @@
+.DrumKit {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 100px;
+  grid-gap: 50px;
+}

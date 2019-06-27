@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url('./drum.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25rem;
+  margin-top: 50px;
+}
